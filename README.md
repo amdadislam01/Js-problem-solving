@@ -16,9 +16,8 @@ This repository includes a wide range of problems such as:
 | Mathematical Logic  | Number theory and calculations              |
 | Conditionals        | Branching logic challenges                  |
 | Loops & Iterations  | Repeating logic and iteration exercises     |
-| DOM Manipulation   | JavaScript interactions with HTML elements |
 
-*(Update the list with your exact topics and add links if you wish)*
+
 
 ---
 
