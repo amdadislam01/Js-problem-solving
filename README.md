@@ -1,4 +1,4 @@
-#  JavaScript Problem Solvin
+#  JavaScript Problem Solving
 
 A collection of **JavaScript problem-solving exercises** crafted to sharpen skills, practice algorithmic thinking, and reinforce programming fundamentals. Each challenge includes clear statements and elegant solutions written in Vanilla JS.
 
